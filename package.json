@@ -1,5 +1,5 @@
 {
-  "name": "sanity-plugin-media",
+  "name": "@dennispassway/sanity-plugin-media",
   "version": "2.2.5",
   "description": "This version of `sanity-plugin-media` is for Sanity Studio V3.",
   "keywords": [
@@ -61,7 +61,7 @@
     "@hookform/resolvers": "^3.1.1",
     "@reduxjs/toolkit": "^1.9.0",
     "@sanity/incompatible-plugin": "^1.0.4",
-    "@sanity/ui": "^1.9.3",
+    "@sanity/ui": "^1.0 || ^2.0",
     "@sanity/uuid": "^3.0.1",
     "@tanem/react-nprogress": "^5.0.0",
     "copy-to-clipboard": "^3.3.1",
@@ -91,7 +91,7 @@
     "@sanity/icons": "^2.0.0",
     "@sanity/pkg-utils": "^2.4.8",
     "@sanity/plugin-kit": "^3.1.10",
-    "@sanity/semantic-release-preset": "^2.0.2",
+    "@sanity/semantic-release-preset": "^4.1.7",
     "@types/is-hotkey": "^0.1.7",
     "@types/pluralize": "^0.0.29",
     "@types/react": "^18",
